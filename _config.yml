@@ -1,1 +1,2 @@
+include: [".well-known"]
 theme: jekyll-theme-hacker
