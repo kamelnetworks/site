@@ -2,4 +2,8 @@
 
 # Kamel Networks
 
-We are AS213113. We welcome all peering.
+We are [AS213113](https://www.peeringdb.com/net/23520). We welcome all peering.
+
+## Contact
+
+You can reach us using [matrix](https://matrix.org/) in `#lobby:kamel.network`.
