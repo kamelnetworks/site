@@ -2,7 +2,8 @@
 
 # Kamel Networks
 
-We are [AS213113](https://www.peeringdb.com/net/23520). We welcome all peering.
+We are [AS213113](https://www.peeringdb.com/net/23520).
+We welcome all physical peering, we do not participate in virtual IXs.
 
 ## Contact
 
