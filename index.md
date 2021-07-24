@@ -13,9 +13,9 @@ You can reach us using [matrix](https://matrix.org/) in `#lobby:kamel.network`.
 
 ```
 # blackbox fingerprints
-ECDSA   MD5:de:25:2f:9d:3a:03:2b:87:93:a7:97:43:32:e2:1b:52  SHA256:lLlPCiWCh7qu7KPwDS0SxxvD8aQFvUrzgUOL0GBdC9Q
-ED25519 MD5:ec:77:49:7b:14:95:b9:7f:99:a8:c5:46:fc:0a:4c:20  SHA256:MZmdFtEVM3R1g/CGLuVDD7Irmy+TwG11z7whq4ZcPmY
-RSA     MD5:d5:78:a4:ae:31:05:3d:25:c4:1c:06:e9:38:09:6b:1c  SHA256:7QpUcPkELwfTUN/i29G8MI/MfnLkoE8JJwwPCS6v8js
+ECDSA   MD5:2f:e1:c3:40:ce:9d:09:1e:6b:dc:2e:a0:b3:08:64:9b  SHA256:DkH2tIWIt4Vot9vCCjhPxbeTh23Wqq76u244qXnZ6Gw
+ED25519 MD5:a9:fa:5a:f4:f9:d2:66:69:25:0a:c2:6f:29:fe:5e:98  SHA256:v+p6oYs7dVmcL4yawTSaqvP1AcSLnZ5NDWTUqRX8hKU
+RSA     MD5:50:70:e3:35:b8:fc:ee:d0:38:91:a4:64:ea:b5:26:74  SHA256:p8A7bkD42WUA42h8DNi6w0ID0pb31V1izB0n05w3rFc
 
 # dumont fingerprints
 ECDSA   MD5:e7:46:50:68:d4:2a:a9:a1:33:09:5c:e2:a8:e0:40:2b  SHA256:Go8Ee8x/IpoQ7S2za74as9BCdH1bZyceRbsupHH4UnM
