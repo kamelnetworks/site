@@ -1,0 +1,6 @@
+{
+        "m.homeserver": {
+            "base_url": "https://matrix.kamel.network",
+            "server_name": "kamel.network"
+            }
+}
