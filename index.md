@@ -7,7 +7,7 @@ We welcome all physical peering, we do not participate in virtual IXs.
 
 ## Contact
 
-You can reach us using [matrix](https://matrix.org/) in `#lobby:kamel.network`.
+You can reach us using [Matrix](https://matrix.to/#/#lobby:kamel.network) in `#lobby:kamel.network`.
 
 ## Notes
 
