@@ -5,9 +5,12 @@
 We are [AS213113](https://www.peeringdb.com/net/23520).
 We welcome all physical peering, we do not participate in virtual IXs.
 
+## Services
+We do __not__ offer any services.
+
 ## Contact
 
-You can reach us using [Matrix](https://matrix.to/#/#lobby:kamel.network) in `#lobby:kamel.network`.
+You can reach us using [Matrix](https://matrix.to/#/#lobby:kamel.network) in `#lobby:kamel.network`. 
 
 ## Notes
 
