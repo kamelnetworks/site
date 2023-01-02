@@ -27,3 +27,4 @@ RSA     MD5:01:e8:7f:27:e5:82:ab:8e:d7:d7:b4:a3:27:22:3a:16  SHA256:uAE6JAoXw4u2
 ```
 ## Mastodon
 <a rel="me" href="https://kamel.social/@tisteagle">tisteagle</a>
+<a rel="me" href="https://kamel.social/@fyx">fyx</a>
