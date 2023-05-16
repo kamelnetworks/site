@@ -5,8 +5,14 @@
 We are [AS213113](https://www.peeringdb.com/net/23520).
 We welcome all physical peering, we do not participate in virtual IXs.
 
-## Services
-We do __not__ offer any services.
+## Projects & Services
+
+We are currently involved with these projects and services:
+
+ * [Our speedtest server](http://speedtest.kamel.network/) for network troubleshooting
+ * [The open-networking Internet Exchange, SONIX](https://sonix.network/)
+ * [An un-official SONiC download site](https://sonic.software/)
+ * [A community run Ansible module for SONiC](https://github.com/ansible-collections/community.sonic)
 
 ## Contact
 
